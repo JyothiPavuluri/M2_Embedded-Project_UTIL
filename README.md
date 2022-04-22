@@ -27,3 +27,11 @@ Codacy Badge | Code Quality | Code Grade |
 `4_Test_plan`      | Documents with test plans and procedures
 `5_Report`         | Complete project report
 `6_Output`         | should contain .hex file, .simu file
+
+# Reference
+
+Greeks for Greeks
+
+Youtube C programming
+
+modules C lectures
