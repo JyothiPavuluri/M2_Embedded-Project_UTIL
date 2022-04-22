@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1631786707 source:d:\atmeg328\case_study\activity_1.c
+	"Activity_1.h"
+
+1631786547 d:\atmeg328\case_study\activity_1.h
+	<avr/io.h>
+
+1631786811 source:d:\atmeg328\case_study\activity_2.c
+	"Activity_2.h"
+
+1631786567 d:\atmeg328\case_study\activity_2.h
+	<avr/io.h>
+
+1631786918 source:d:\atmeg328\case_study\activity_3.c
+	"Activity_3.h"
+	<avr/io.h>
+	<util/delay.h>
+
+1631786586 d:\atmeg328\case_study\activity_3.h
+	<avr/io.h>
+
+1631785987 source:d:\atmeg328\case_study\fuse.c
+	<avr/io.h>
+
+1631787005 source:d:\atmeg328\case_study\main.c
+	<avr/io.h>
+	<util/delay.h>
+	"Activity_1.h"
+	"Activity_2.h"
+	"Activity_3.h"
+	"Totalactivity.h"
+
+1631786626 d:\atmeg328\case_study\totalactivity.h
+	<avr/io.h>
+
+1631787062 source:d:\atmeg328\case_study\totalactivity.c
+	<avr/io.h>
+	"Totalactivity.h"
+
+
